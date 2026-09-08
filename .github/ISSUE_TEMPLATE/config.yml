@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a sensitive content-safety concern
+    url: https://github.com/tinytars/reasoning/security/policy
+    about: For a concern you'd rather not detail in a public issue, see SECURITY.md instead.
