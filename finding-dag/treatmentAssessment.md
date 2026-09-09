@@ -3,13 +3,13 @@ node: treatmentAssessment
 kind: leaf
 label: "Treatment Assessment"
 inputs: [patientAssessment, markerLevels, treatmentHistory, aiFindings]
-basis: "{{PRODUCT_NAME}} assessment of each current regimen item, tagged to a body system (W25)."
+basis: "{{PRODUCT_NAME}} assessment of each current regimen item, tagged to a body system."
 tags: [dag/leaf]
 ---
 
 # Treatment Assessment
 
-{{PRODUCT_NAME}} assessment of each current regimen item, tagged to a body system (W25).
+{{PRODUCT_NAME}} assessment of each current regimen item, tagged to a body system.
 
 ## Inputs
 

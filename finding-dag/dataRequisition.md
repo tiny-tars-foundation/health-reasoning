@@ -3,13 +3,13 @@ node: dataRequisition
 kind: leaf
 label: "Data Requisition"
 inputs: [aiFindings, markerLevels]
-basis: "Data to obtain next, by body system (W27) then modality, plus standard-of-care intervals."
+basis: "Data to obtain next, by body system then modality, plus standard-of-care intervals."
 tags: [dag/leaf]
 ---
 
 # Data Requisition
 
-Data to obtain next, by body system (W27) then modality, plus standard-of-care intervals.
+Data to obtain next, by body system then modality, plus standard-of-care intervals.
 
 ## Inputs
 

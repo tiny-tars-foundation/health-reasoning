@@ -3,13 +3,13 @@ node: studyResults
 kind: leaf
 label: "Study Result"
 inputs: [patientAssessment, markerLevels, pursuedStudy, aiFindings]
-basis: "{{PRODUCT_NAME}}'s answer to each pursued study, tagged to a body system (W25)."
+basis: "{{PRODUCT_NAME}}'s answer to each pursued study, tagged to a body system."
 tags: [dag/leaf]
 ---
 
 # Study Result
 
-{{PRODUCT_NAME}}'s answer to each pursued study, tagged to a body system (W25).
+{{PRODUCT_NAME}}'s answer to each pursued study, tagged to a body system.
 
 ## Inputs
 
