@@ -9,8 +9,6 @@ bring to a doctor's visit. It's structured so invited health-literacy experts ca
 this repo carries no app code, no credentials, and no PHI, so it can be shared with anyone doing
 that review.
 
-Tiny Tars Foundation is a registered 501(c)(3) public charity. EIN: 39-2278196.
-
 ## Map of the docs
 
 - **[START-HERE.md](START-HERE.md)** — onboarding: editing reasoning (no code), or wiring the
